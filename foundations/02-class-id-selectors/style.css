@@ -1,0 +1,17 @@
+.odd-number{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, DejaVu Sans;
+    background: lightpink;
+}
+#second-el{
+    color: blue;
+    font-size: 36px;
+}
+#third-el{
+    font-size: 24px;
+    font-weight: bold;
+}
+#fourth-el{
+    background: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
